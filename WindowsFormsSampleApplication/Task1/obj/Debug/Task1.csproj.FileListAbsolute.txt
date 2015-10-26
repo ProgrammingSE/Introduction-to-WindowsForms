@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\bin\Debug\Task1.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\bin\Debug\Task1.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\bin\Debug\Task1.pdb
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.buttonHiderForm.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task1\obj\Debug\Task1.pdb

@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\bin\Debug\Task2.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\bin\Debug\Task2.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\bin\Debug\Task2.pdb
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.meltedStringForm.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task2\obj\Debug\Task2.pdb
