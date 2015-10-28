@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\bin\Debug\Task4.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\bin\Debug\Task4.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\bin\Debug\Task4.pdb
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.ListBoxForm.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task4\obj\Debug\Task4.pdb

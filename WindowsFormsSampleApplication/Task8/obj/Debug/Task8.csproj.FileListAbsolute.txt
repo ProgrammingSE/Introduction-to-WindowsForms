@@ -1,0 +1,8 @@
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\bin\Debug\Task8.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\obj\Debug\Task8.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\obj\Debug\Task8.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\obj\Debug\Task8.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\bin\Debug\Task8.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\bin\Debug\Task8.pdb
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\obj\Debug\Task8.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task8\obj\Debug\Task8.pdb

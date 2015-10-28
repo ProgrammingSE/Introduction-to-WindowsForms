@@ -1,0 +1,9 @@
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\bin\Debug\Task7.exe.config
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\bin\Debug\Task7.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\bin\Debug\Task7.pdb
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.exe
+\\psf\home\documents\visual studio 2013\Projects\WindowsFormsSampleApplication\Task7\obj\Debug\Task7.pdb
